@@ -63,4 +63,6 @@ I also used PCA , although best practice would be to use it for large datasets a
 - Component 2: Most important feature is Discount Applied
 - Component 3: Most important feature is Recency
 As a final step customers were assigned their segments
-![image](Images/seg)
+
+![image](Images/Screenshot%202024-05-12%20203236.png)
+The clusters are more sprend out in PCA in comparison to k-means.
