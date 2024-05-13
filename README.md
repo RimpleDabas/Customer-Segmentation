@@ -68,3 +68,5 @@ As a final step customers were assigned their segments
 ![image](Images/Screenshot%202024-05-12%20203236.png)
 
 The clusters are more sprend out in PCA in comparison to k-means.
+
+The comparisons between RFM and k means clustering were made to make obesrvations between the segmentation and it was noticed that both methods gave fairly similar results.
