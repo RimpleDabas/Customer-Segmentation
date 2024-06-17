@@ -70,3 +70,19 @@ As a final step customers were assigned their segments
 The clusters are more sprend out in PCA in comparison to k-means.
 
 The comparisons between RFM and k means clustering were made to make obesrvations between the segmentation and it was noticed that both methods gave fairly similar results.
+
+## Recommendations
+* **Loyalists**
+
+	- Reward: Acknowledge their loyalty with special offers, discounts, or exclusive access
+	- Engage: Encourage them to become brand evangelists and early adopters of new products
+	- Request Reviews: Ask for reviews or testimonials to showcase their positive experiences.
+- **Lost Customers**
+	- Honest Communication: Reach out to understand why they left. Address any issues or concerns
+ 	- Incentives: Offer personalized incentives (e.g., discounts) to encourage their return
+Consistent
+	- Consistent Engagement: Maintain communication to rekindle interest and loyalty2.
+* **At Risk Cutomers**:
+	- Personalized Messages: Send targeted emails or notifications to reconnect.
+	- Identify Issues: Understand why they’re at risk and address those pain points.
+	- Curate Recommendations: Provide relevant product suggestions to retain their interest.
